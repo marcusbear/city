@@ -1,0 +1,7 @@
+{
+    "mongodbUrl": "mongodb://marcus:123456@ds053156.mlab.com:53156/marcusbear0615",
+
+    "gcm": {
+        "apiKey": "AIzaSyBIGw9eqcvvAo4h5CFxvFRtTzAoljp29U8"
+    }
+}
